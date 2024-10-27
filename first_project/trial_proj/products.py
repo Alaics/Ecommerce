@@ -1,0 +1,95 @@
+products = [
+    {
+        '_id': '1',
+        'name': 'EBOOK 1',
+        'image': '/images/everything.jpg',
+        'description':
+        ' this book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'brand': 'EBOOK1',
+        'category': 'Self Help Books',
+        'price': '150',
+        'countInStock': 2,
+        'rating': 4.4,
+        'numReviews': 12,
+    },
+    {
+        '_id': '2',
+        'name': 'EBOOK 2',
+        'image': '/images/gentlereminder.webp',
+        'description':
+        ' this book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'brand': 'EBOOK1',
+        'category': 'Self Help Books',
+        'price': '150',
+        'countInStock': 2,
+        'rating': 3,
+        'numReviews': 12,
+    },
+    {
+        '_id': '3',
+        'name': 'EBOOK 3',
+        'image': '/images/subtle.jpg',
+        'description':
+        ' this book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'brand': 'EBOOK1',
+        'category': 'Self Help Books',
+        'price': '150',
+        'countInStock': 2,
+        'rating': 4.5,
+        'numReviews': 12,
+    },
+    {
+        '_id': '4',
+        'name': 'EBOOK 3',
+        'image': '/images/poordad.jpg',
+        'description':
+        ' this book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'brand': 'EBOOK1',
+        'category': 'Self Help Books',
+        'price': '150',
+        'countInStock': 2,
+        'rating': 2,
+        'numReviews': 12,
+    },
+    {
+        '_id': '5',
+        'name': 'EBOOK 5',
+        'image': '/images/girl.jpg',
+        'description':
+        ' this book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'brand': 'EBOOK1',
+        'category': 'Self Help Books',
+        'price': '150',
+        'countInStock': 2,
+        'rating': 2,
+        'numReviews': 12,
+    },
+    {
+        '_id': '6',
+        'name': 'EBOOK 6',
+        'image': '/images/mountain.jpg',
+        'description':
+        ' this book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'brand': 'EBOOK1',
+        'category': 'Self Help Books',
+        'price': '150',
+        'countInStock': 2,
+        'rating': 4,
+        'numReviews': 8,
+    },
+    {
+        '_id': '7',
+        'name': 'EBOOK 7',
+        'image': '/images/zero.jpg',
+        'description':
+        ' this book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'brand': 'EBOOK1',
+        'category': 'Self Help Books',
+        'price': '150',
+        'countInStock': 0,
+        'rating': 4.9,
+        'numReviews': 15,
+    },
+
+]
+

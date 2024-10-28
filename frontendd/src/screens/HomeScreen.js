@@ -17,15 +17,6 @@ function HomeScreen() {
   return (
     <div>
         <h1 className="text-center">Latest Books</h1>
-        {/* <Form className="d-flex">
-            <FormControl
-              type="search"
-              placeholder="Search"
-              className="me-2"
-              aria-label="Search"
-            />
-            <Button variant="light">Search</Button>
-          </Form> */}
         <Row>
             {products.map((product) =>(
               <Col key={product._id} sm={12} md={6} lg={4} xl={3} >
